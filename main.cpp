@@ -14,6 +14,7 @@ int main()
         chance = prob(no , p , mp) ;
         cout << "You have one in " << chance << " chance of winning." ;
     }
+    cout << "this is for git hub " ;
 
     return 0;
 }
